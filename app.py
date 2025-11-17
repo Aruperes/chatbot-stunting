@@ -6,7 +6,7 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 GEMINI_API_KEY = "AIzaSyDXr6zd7wkAZm1HGOAkAAPK-igMc29n37E"
-FONNTE_TOKEN = "YojmEUBfp9T7Zt8N9VBm"
+FONNTE_TOKEN = "6oWEebJCKKx7RDVwe6PC"
 FONNTE_API_URL = "https://api.fonnte.com/send"
 
 try:
